@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  CE103-HW2-Lib-Test.cpp
+C:\Users\ÖmerX\Desktop\Yeni klasör\CE103-HW2-No-Code\CE103-HW2-Lib-Test\CE103-HW2-Lib-Test.cpp(140,1): warning C4267: 'bağımsız değişken': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ÖmerX\Desktop\Yeni klasör\CE103-HW2-No-Code\CE103-HW2-Lib-Test\CE103-HW2-Lib-Test.cpp(153,1): warning C4267: 'bağımsız değişken': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+     C:\Users\ÖmerX\Desktop\Yeni klasör\CE103-HW2-No-Code\x64\Debug\CE103-HW2-Lib-Test.lib kitaplığı ve C:\Users\ÖmerX\Desktop\Yeni klasör\CE103-HW2-No-Code\x64\Debug\CE103-HW2-Lib-Test.exp nesnesi oluşturuluyor
+  CE103-HW2-Lib-Test.vcxproj -> C:\Users\ÖmerX\Desktop\Yeni klasör\CE103-HW2-No-Code\x64\Debug\CE103-HW2-Lib-Test.dll
